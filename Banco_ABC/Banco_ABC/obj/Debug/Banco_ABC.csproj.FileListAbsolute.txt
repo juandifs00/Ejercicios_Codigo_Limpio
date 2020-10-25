@@ -1,0 +1,44 @@
+C:\Users\Juan Diego Rodriguez\source\repos\Banco_ABC\Banco_ABC\bin\Debug\Banco_ABC.exe.config
+C:\Users\Juan Diego Rodriguez\source\repos\Banco_ABC\Banco_ABC\bin\Debug\Banco_ABC.exe
+C:\Users\Juan Diego Rodriguez\source\repos\Banco_ABC\Banco_ABC\bin\Debug\Banco_ABC.pdb
+C:\Users\Juan Diego Rodriguez\source\repos\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.csprojAssemblyReference.cache
+C:\Users\Juan Diego Rodriguez\source\repos\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Banco_ABC.resources
+C:\Users\Juan Diego Rodriguez\source\repos\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Properties.Resources.resources
+C:\Users\Juan Diego Rodriguez\source\repos\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.csproj.GenerateResource.cache
+C:\Users\Juan Diego Rodriguez\source\repos\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.csproj.CoreCompileInputs.cache
+C:\Users\Juan Diego Rodriguez\source\repos\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.exe
+C:\Users\Juan Diego Rodriguez\source\repos\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.pdb
+C:\Users\Juan Diego Rodriguez\source\repos\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Reg_C_Ahorros.resources
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3\Banco_ABC\Banco_ABC\bin\Debug\Banco_ABC.exe.config
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3\Banco_ABC\Banco_ABC\bin\Debug\Banco_ABC.exe
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3\Banco_ABC\Banco_ABC\bin\Debug\Banco_ABC.pdb
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.csprojAssemblyReference.cache
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Banco_ABC.resources
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Properties.Resources.resources
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Reg_C_Ahorros.resources
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.csproj.GenerateResource.cache
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.exe
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.pdb
+C:\Users\Juan Diego Rodriguez\source\repos\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Consignas.resources
+C:\Users\Juan Diego Rodriguez\source\repos\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Retiros.resources
+C:\Users\Juan Diego Rodriguez\source\repos\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Transferencias.resources
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Consignas.resources
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Retiros.resources
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Transferencias.resources
+C:\Users\Juan Diego Rodriguez\source\repos\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Consultas.resources
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3 final\Banco_ABC\Banco_ABC\bin\Debug\Banco_ABC.exe.config
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3 final\Banco_ABC\Banco_ABC\bin\Debug\Banco_ABC.exe
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3 final\Banco_ABC\Banco_ABC\bin\Debug\Banco_ABC.pdb
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3 final\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.csprojAssemblyReference.cache
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3 final\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Banco_ABC.resources
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3 final\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Consignas.resources
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3 final\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Consultas.resources
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3 final\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Properties.Resources.resources
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3 final\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Reg_C_Ahorros.resources
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3 final\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Retiros.resources
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3 final\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.Transferencias.resources
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3 final\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.csproj.GenerateResource.cache
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3 final\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3 final\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.exe
+D:\Usuario\Desktop\Ingeniería Sistemas\Lenguajes de programación y código limpio\Taller 3 final\Banco_ABC\Banco_ABC\obj\Debug\Banco_ABC.pdb
