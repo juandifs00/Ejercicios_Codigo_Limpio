@@ -53,7 +53,6 @@ namespace Banco_ABC
                     errorProvider1.SetError(txtbxNumCuenta2, "Debe introducir un número de cuenta");
                 }
                 btnRealizar_Consignacion.Enabled = false;
-                txtbxCantidad_Consignar.Focus();
             }
 
             if (txtbxCantidad_Consignar.Text.Trim() != string.Empty && txtbxCantidad_Consignar.Text.All(char.IsNumber))
@@ -72,7 +71,6 @@ namespace Banco_ABC
                     errorProvider2.SetError(txtbxCantidad_Consignar, "Debe ingresar la cantidad que desea consignar");
                 }
                 btnRealizar_Consignacion.Enabled = false;
-                txtbxCantidad_Consignar.Focus();
             }
         }
 

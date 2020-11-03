@@ -47,7 +47,6 @@ namespace Banco_ABC
                     errorProvider1.SetError(txtbxCuenta_Origen, "Debe introducir un número de cuenta");
                 }
                 btnRealizar_Transferencia.Enabled = false;
-                txtbxCuenta_Origen.Focus();
             }
 
             if (txtbxCuenta_Destino.Text.Trim() != string.Empty && txtbxCuenta_Destino.Text.All(char.IsNumber))
@@ -66,7 +65,6 @@ namespace Banco_ABC
                     errorProvider2.SetError(txtbxCuenta_Destino, "Debe introducir un número de cuenta");
                 }
                 btnRealizar_Transferencia.Enabled = false;
-                txtbxCuenta_Destino.Focus();
             }
 
             if (txtbxNumCuenta3.Text.Trim() != string.Empty && txtbxNumCuenta3.Text.All(char.IsNumber))
@@ -85,7 +83,6 @@ namespace Banco_ABC
                     errorProvider3.SetError(txtbxNumCuenta3, "Debe introducir la cantidad a transferir");
                 }
                 btnRealizar_Transferencia.Enabled = false;
-                txtbxNumCuenta3.Focus();
             }
         }
 

@@ -48,7 +48,6 @@ namespace Banco_ABC
                     errorProvider1.SetError(txtbxNumCuenta3, "Debe introducir un número de cuenta");
                 }
                 btnRealizar_Retiro.Enabled = false;
-                txtbxNumCuenta3.Focus();
             }
 
             if (txtbxCantidad_Retirar.Text.Trim() != string.Empty && txtbxCantidad_Retirar.Text.All(char.IsNumber))
@@ -67,7 +66,6 @@ namespace Banco_ABC
                     errorProvider2.SetError(txtbxCantidad_Retirar, "Debe introducir una cantidad a retirar");
                 }
                 btnRealizar_Retiro.Enabled = false;
-                txtbxCantidad_Retirar.Focus();
             }
         }
 

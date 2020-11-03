@@ -57,7 +57,6 @@ namespace Banco_ABC
                     errorProvider1.SetError(txtbxNumCuenta, "Debe introducir un número de cuenta");
                 }
                 btnConf_Registro.Enabled = false;
-                txtbxNumCuenta.Focus();
             }
 
             if (txtbxNomTitular.Text.Trim() != string.Empty && txtbxNomTitular.Text.All(char.IsLetter))
@@ -76,7 +75,6 @@ namespace Banco_ABC
                     errorProvider2.SetError(txtbxNomTitular, "Debe introducir un nombre");
                 }
                 btnConf_Registro.Enabled = false;
-                txtbxNomTitular.Focus();
             }
             
             if (txtbxNumDocumento.Text.Trim() != string.Empty && txtbxNumDocumento.Text.All(char.IsNumber))
@@ -95,7 +93,6 @@ namespace Banco_ABC
                     errorProvider3.SetError(txtbxNumDocumento, "Debe introducir un número de documento");
                 }
                 btnConf_Registro.Enabled = false;
-                txtbxNumDocumento.Focus();
             }
 
             if (txtbxSaldo.Text.Trim() != string.Empty && txtbxSaldo.Text.All(char.IsNumber))
@@ -110,7 +107,6 @@ namespace Banco_ABC
                     errorProvider4.SetError(txtbxSaldo, "El espacio solo debe contener números");
                 }
                 btnConf_Registro.Enabled = false;
-                txtbxSaldo.Focus();
             }
         }
 

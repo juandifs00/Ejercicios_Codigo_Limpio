@@ -113,6 +113,7 @@
             // 
             // txtbxTotal_Consignas
             // 
+            this.txtbxTotal_Consignas.Enabled = false;
             this.txtbxTotal_Consignas.Location = new System.Drawing.Point(178, 96);
             this.txtbxTotal_Consignas.Name = "txtbxTotal_Consignas";
             this.txtbxTotal_Consignas.Size = new System.Drawing.Size(152, 20);
@@ -120,6 +121,7 @@
             // 
             // txtbxCliente_Mayor_Consigna
             // 
+            this.txtbxCliente_Mayor_Consigna.Enabled = false;
             this.txtbxCliente_Mayor_Consigna.Location = new System.Drawing.Point(178, 345);
             this.txtbxCliente_Mayor_Consigna.Name = "txtbxCliente_Mayor_Consigna";
             this.txtbxCliente_Mayor_Consigna.Size = new System.Drawing.Size(152, 20);
@@ -128,6 +130,7 @@
             // txtbxTotal_Operaciones
             // 
             this.txtbxTotal_Operaciones.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtbxTotal_Operaciones.Enabled = false;
             this.txtbxTotal_Operaciones.Location = new System.Drawing.Point(178, 252);
             this.txtbxTotal_Operaciones.Name = "txtbxTotal_Operaciones";
             this.txtbxTotal_Operaciones.Size = new System.Drawing.Size(152, 20);
@@ -135,6 +138,7 @@
             // 
             // txtbxTotal_Retiros
             // 
+            this.txtbxTotal_Retiros.Enabled = false;
             this.txtbxTotal_Retiros.Location = new System.Drawing.Point(178, 169);
             this.txtbxTotal_Retiros.Name = "txtbxTotal_Retiros";
             this.txtbxTotal_Retiros.Size = new System.Drawing.Size(152, 20);
